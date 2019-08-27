@@ -17,7 +17,7 @@ int binarySearch(vector<int> a, int x)
         else
             high = mid - 1;
     }
-    return j;
+    return j; //如果要返回为第几个元素，j+1即可
 }
 
 int main()
