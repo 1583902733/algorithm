@@ -27,7 +27,7 @@ public:
             }
         }
     }
-
+    //邻位交换法
     void permutations1()
     {
         for (int i = 0; i < n; ++i)
