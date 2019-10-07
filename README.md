@@ -6,6 +6,7 @@
 >[选择排序](https://github.com/1583902733/algorithm/blob/master/chapter%201/selectionSort.cpp)  
 >[插入排序](https://github.com/1583902733/algorithm/blob/master/chapter%201/insertionSort.cpp)  
 >[基数排序](https://github.com/1583902733/algorithm/blob/master/chapter%205/radixSort.cpp)  
+>[快速排序](https://github.com/1583902733/algorithm/blob/master/chapter%205/quickSort.cpp)
 
 ## 查找算法
 >[二分查找](https://github.com/1583902733/algorithm/blob/master/chapter%201/binarySearch.cpp) 
