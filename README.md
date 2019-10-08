@@ -11,4 +11,6 @@
 ## 查找算法
 >[二分查找](https://github.com/1583902733/algorithm/blob/master/chapter%201/binarySearch.cpp) 
 
-
+## 分治算法
+>[寻找第k小元素](https://github.com/1583902733/algorithm/blob/master/chapter%206/findKthElement.cpp)
+>[寻找中位数（大小堆）](https://github.com/1583902733/algorithm/blob/master/chapter%206/getMedian.cpp)
